@@ -32,7 +32,7 @@ Read the complete breakdown with visuals and teaching flow on Hashnode:
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/react-theme-toggle-system.git
+git clone https://github.com/Gourab2005/GD-s-Frontend-sheet.git
 cd react-theme-toggle-system
 npm install
 npm run dev
