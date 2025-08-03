@@ -23,8 +23,6 @@ Read the complete breakdown with visuals and teaching flow on Hashnode:
 
 ---
 
-## 📸 Preview
-
 ![Theme Toggle Preview](https://cdn.hashnode.com/res/hashnode/image/upload/v1754204797415/60492ec5-0a11-4b34-bec5-d8e4284162ce.png?auto=compress,format&format=webp&q=75)
 
 ---
